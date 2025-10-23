@@ -9,7 +9,7 @@ It demonstrates how to create a **responsive and stylish card component** with a
 
 ## 🚀 Demo
 
-![Screenshot](Screenshot.png)
+![Card Preview](photo.jpg)
 
 ---
 
